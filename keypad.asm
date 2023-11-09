@@ -2,7 +2,7 @@
 ; COMP9032 term project.asm
 ;
 ; Created: 2023/11/6 10:55:00
-; Author : talln
+; Author : otto
 ;
 
 
